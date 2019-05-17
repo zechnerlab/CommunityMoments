@@ -2,7 +2,7 @@
 This repository contains the code used for the paper 'Moment-based analysis of biochemical feedback circuits in a population of chemically interacting cells' (https://arxiv.org/abs/1905.02053). All code and plots are provided in the form of Python notebooks (https://jupyter.org/). The provided code can be used to reproduce the case studies shown in the paper and is not meant to be a general tool. For further information, contact David Gonzales (gonzales@mpi-cbg.de) & Christoph Zechner (zechner@mpi-cbg.de).
 
 # Installation
-The provided code was written using Python v3.6.1 and use the following libraries:
+The provided code was written using Python v3.6.1 and uses the following libraries:
 - Numpy v1.13.3 (https://www.numpy.org/)
 - Scipy v1.1.0 (https://www.scipy.org/)
 - Tellurium v2.1.0 (https://tellurium.readthedocs.io/en/latest/)
