@@ -7,6 +7,9 @@ The provided code was written using Python v3.6.1 and uses the following librari
 - Scipy v1.1.0 (https://www.scipy.org/)
 - Tellurium v2.1.0 (https://tellurium.readthedocs.io/en/latest/)
 - Sympy v1.0 (https://www.sympy.org/en/index.html)
+- Seaborn v0.9.0 (https://seaborn.pydata.org/)
+- Pandas v0.23.4 (https://pandas.pydata.org/)
+- Matplotlib v2.0.2 (https://matplotlib.org/)
 
 In case you do not have anything installed, the easiest way to start is to install using Anaconda. Instructions to install Python and Jupyter can be found in https://jupyter.readthedocs.io/en/latest/install.html. Numpy, Scipy, and Sympy are already included in the Anaconda installation. To install Tellurium:
 ```
@@ -14,4 +17,4 @@ pip install tellurium
 ```
 
 # Usage
-To recreate the plots in the paper, run each of the notebooks for each plot. The current number of SSA samples are set to 100, but can be changed to any number in the section entitled 'Run SSA for comparison'. We used 2000 stochastic simulations in the paper.
+The python scripts **writeAnt.py** and **GenerateReducedMoments.py** contain functions used in the Python notebooks. To recreate the plots in the paper, run each of the notebooks for each figure. The current number of SSA samples are set to 100, but can be changed to any number in the section entitled 'Run SSA for comparison'. We used 2000 stochastic simulations in the paper.
