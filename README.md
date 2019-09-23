@@ -1,5 +1,5 @@
 # Moment-based analysis of interacting cell populations
-This repository contains the code used for the paper 'Moment-based analysis of biochemical feedback circuits in a population of chemically interacting cells' (https://arxiv.org/abs/1905.02053). All code and plots are provided in the form of Python notebooks (https://jupyter.org/). The provided code can be used to reproduce the case studies shown in the paper and is not meant to be a general tool. For further information, contact David Gonzales (gonzales@mpi-cbg.de) & Christoph Zechner (zechner@mpi-cbg.de).
+This repository contains the code used for the paper 'Moment-based analysis of biochemical networks in a heterogeneous population of communicating cells' (https://arxiv.org/abs/1905.02053). All code and plots are provided in the form of Python notebooks (https://jupyter.org/). The provided code can be used to reproduce the case studies shown in the paper and is not meant to be a general tool. For further information, contact David Gonzales (gonzales@mpi-cbg.de) & Christoph Zechner (zechner@mpi-cbg.de).
 
 # Installation
 The provided code was written using Python v3.6.1 and uses the following libraries:
